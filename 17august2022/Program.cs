@@ -16,6 +16,7 @@ namespace _17august2022
             Console.WriteLine("Enter a String");
             me = Console.ReadLine();
             Console.WriteLine("You wrote " + me);
+            Console.WriteLine("Hello Love!");
             Console.ReadLine();
         }
     }
